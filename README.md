@@ -79,4 +79,3 @@
 ### h.76-Errores y Depuración I
 ### h.77-Errores y Depuración II
 ### h.78-FINAL CURSO
-![image](https://github.com/rolando1803/Javascript/assets/55965131/8afc8320-e1af-4a88-b138-edeec8b8810f)
